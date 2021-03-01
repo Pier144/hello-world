@@ -3,7 +3,7 @@
 ##### Pancera - Conti - Fasoli - Polgrossi - Doroshenko
 Lo scopo di questo lavoro è lo studiare il cosa Flutter sia, il come esso funzioni e le sue funzionalità più sviluppate.
 
-** La suddivisione del lavoro è la seguente: **
+**La suddivisione del lavoro è la seguente:**
 
 **Compagno**  | **Lavoro**
 ------------- | -------------
